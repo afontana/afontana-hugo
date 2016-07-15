@@ -42,3 +42,9 @@ paginate = 5
         weight = 2
         identifier = "about"
         url = "/sobre/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "*"
+  github = "*"

@@ -45,7 +45,7 @@ paginate = 5
     [[menu.main]]
         name = "Contato"
         pre = "<i class='fa fa-phone-square fa-fw'></i>"
-        weight = 5
+        weight = 3
         identifier = "contato"
         url = "/contato/"
     [[menu.main]]

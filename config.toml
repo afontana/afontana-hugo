@@ -16,8 +16,8 @@ paginate = 5
  # Shown in the home page
     subtitle = "DevOps / Open Source / Segurança da Informação / Gestão"
     brand = "Fontana"
-    #googleAnalytics = "Your Google Analytics tracking ID"
-    #disqus = "Your Disqus shortname"
+    googleAnalytics = "Your Google Analytics tracking ID"
+    disqus = "Your Disqus shortname"
     # CSS name for highlight.js
     highlightjs = "androidstudio"
     dateFormat = "02 Jan 2006, 15:04"

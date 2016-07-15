@@ -1,6 +1,6 @@
 baseurl = "https://afontana.github.io/"
 languageCode = "pt-br"
-title = "André Fontana no GitHub"
+title = "André Fontana"
 author = "André Fontana"
 theme = "blackburn"
 # Shown in the side menu
@@ -25,10 +25,10 @@ paginate = 5
 [menu]
 # Shown in the side menu.
     [[menu.main]]
-        name = "Home"
+        name = "Início"
         pre = "<i class='fa fa-home fa-fw'></i>"
         weight = 0
-        identifier = "home"
+        identifier = "inicio"
         url = "/"
     [[menu.main]]
         name = "Posts"
@@ -40,11 +40,30 @@ paginate = 5
         name = "Sobre"
         pre = "<i class='fa fa-user fa-fw'></i>"
         weight = 2
-        identifier = "about"
+        identifier = "sobre"
         url = "/sobre/"
+    [[menu.main]]
+        name = "Tópicos"
+        pre = "<i class='fa fa-folder fa-fw'></i>"
+        weight = 3
+        identifier = "topicos"
+        url = "/topics/"
+    [[menu.main]]
+        name = "Tags"
+        pre = "<i class='fa fa-tags fa-fw'></i>"
+        weight = 4
+        identifier = "tag"
+        url = "/tags/"
+    [[menu.main]]
+        name = "Contato"
+        pre = "<i class='fa fa-phone-square fa-fw'></i>"
+        weight = 5
+        identifier = "contato"
+        url = "/contato/"
 
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
-  github = "*"
+  facebook = "aluisfontana"
+  twitter = "aluisfontana"
+  github = "afontana"

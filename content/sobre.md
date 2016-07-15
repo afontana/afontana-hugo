@@ -8,7 +8,6 @@ sidemenu = "true"
 Olá!
 
 Meu nome é André Luis Fontana, mas podem me chamar de Fontana que é como sou mais conhecido.
-
 Eu sou brasileiro e já morei no México nos anos de 2009 a 2010. Atualmente moro em Artur Nogueira - SP - Brasil
 
 ### Gerente de Projetos Sênior - Open Source / DevOps / Segurança da Informação

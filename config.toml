@@ -21,6 +21,7 @@ paginate = 5
     # CSS name for highlight.js
     highlightjs = "androidstudio"
     dateFormat = "02 Jan 2006, 15:04"
+    enableRobotsTXT = true
 
 [menu]
 # Shown in the side menu.

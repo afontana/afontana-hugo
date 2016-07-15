@@ -6,7 +6,7 @@ theme = "blackburn"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
-paginate = 10
+paginate = 5
 
 [indexes]
   tag = "tags"
@@ -36,7 +36,7 @@ paginate = 10
         weight = 1
         identifier = "post"
         url = "/post/"
-     [[menu.main]]
+    [[menu.main]]
         name = "About"
         pre = "<i class='fa fa-user fa-fw'></i>"
         weight = 2

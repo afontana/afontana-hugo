@@ -6,6 +6,7 @@ theme = "blackburn"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
+enableRobotsTXT = true
 paginate = 5
 
 [indexes]
@@ -21,7 +22,6 @@ paginate = 5
     # CSS name for highlight.js
     highlightjs = "androidstudio"
     dateFormat = "02 Jan 2006, 15:04"
-    enableRobotsTXT = true
 
 [menu]
 # Shown in the side menu.

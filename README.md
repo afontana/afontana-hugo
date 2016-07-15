@@ -1,6 +1,6 @@
-#afontana.github.io
+#afontana-hugo
 
-Meu site pessoal hospedado no GitHub Pages.
+Estrutura HUGO do meu site pessoal hospedado no GitHub ** afontana.github.io**.
 
  ## Powered by
  - [Hugo](//gohugo.io/)

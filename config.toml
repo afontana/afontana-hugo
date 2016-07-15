@@ -37,8 +37,8 @@ paginate = 5
         identifier = "post"
         url = "/post/"
     [[menu.main]]
-        name = "About"
+        name = "Sobre"
         pre = "<i class='fa fa-user fa-fw'></i>"
         weight = 2
         identifier = "about"
-        url = "/about/"
+        url = "/sobre/"

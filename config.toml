@@ -43,23 +43,17 @@ paginate = 5
         identifier = "sobre"
         url = "/sobre/"
     [[menu.main]]
-        name = "Tópicos"
-        pre = "<i class='fa fa-folder fa-fw'></i>"
-        weight = 3
-        identifier = "topicos"
-        url = "/topics/"
+        name = "Contato"
+        pre = "<i class='fa fa-phone-square fa-fw'></i>"
+        weight = 5
+        identifier = "contato"
+        url = "/contato/"
     [[menu.main]]
         name = "Tags"
         pre = "<i class='fa fa-tags fa-fw'></i>"
         weight = 4
         identifier = "tag"
         url = "/tags/"
-    [[menu.main]]
-        name = "Contato"
-        pre = "<i class='fa fa-phone-square fa-fw'></i>"
-        weight = 5
-        identifier = "contato"
-        url = "/contato/"
 
 [social]
   # Link your social networking accouns to the side menu

@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+  <h2>{{ .Description }}</h2>
+</div>
+<div class="content">
+  {{ .Content }}
+</div>
+
+<div>
+    <div class="p-share">
+       <a href="https://www.facebook.com/sharer.php?src=bm&u={{ .Permalink  }}&t={{ .Title  }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-facebook"></i></a>
+       <a href="https://twitter.com/intent/tweet?url={{ .Permalink  }}&text={{ .Title  }}&tw_p=tweetbutton" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-twitter"></i></a>
+       <a href="https://plus.google.com/share?url={{ .Permalink  }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-google-plus"></i></a>
+       <a href="https://www.linkedin.com/shareArticle?url={{ .Permalink  }}&t={{ .Title  }}" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-linkedin"></i></a>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

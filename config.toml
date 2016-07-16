@@ -55,6 +55,12 @@ paginate = 5
         weight = 4
         identifier = "tag"
         url = "/tags/"
+    [[menu.main]]
+        name = "Tópicos"
+        pre = "<i class='fa fa-folder fa-fw'></i>"
+        weight = 5
+        identifier = "topic"
+        url = "/topics/"
 
 [social]
   # Link your social networking accouns to the side menu

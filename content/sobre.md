@@ -1,7 +1,7 @@
 +++
 date = "2016-07-14T22:47:32-03:00"
 draft = false
-title = "Sobre Mim"
+title = "Sobre"
 sidemenu = "true"
 +++
 

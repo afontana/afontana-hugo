@@ -16,7 +16,7 @@ paginate = 5
 
 [params]
  # Shown in the home page
-    subtitle = "DevOps / Open Source / Segurança da Informação"
+    subtitle = "DevOps / Open Source / Segurança da Informação / Hacking"
     brand = "Fontana"
     googleAnalytics = "UA-80818285-1"
     disqus = "Your Disqus shortname"

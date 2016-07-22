@@ -22,10 +22,4 @@ Nas horas livres gosto muito de jogar games, principalemnte os jogos de estraté
 Gosto de trabalhar com maquinas virtuais linux e praticar automatização de tarefas com shellscripts e python do ponto de vista DevOps.
 Utilizo maquinas virtuais também para brincar de pentest com Linux Kali, Cyborg e Parrot.
 
-## Sobre este site
 
-Este site foi meu teste para hospedar um blog no Github. Além de ser meu treinamento com a linguagem GO + gerador de site estático HUGO.
-Pretendo colocar posts de qualidade e técnicos como resultado de meus estudos e pesquisas de especialização DevOps e Open Source
-
-- Gerado usando [Hugo](//gohugo.io), um motor moderno e rápido para geração de sites estáticos
-- Hospedado no meu GitHub [repository](//github.com/afontana/afontana.github.io)

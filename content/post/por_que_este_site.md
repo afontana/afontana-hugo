@@ -9,7 +9,7 @@ topics = ["Técnico", "Conteúdo de Qualidade"]
 
 É um site pessoal hospedado no <a href="https://github.com/" target="_blank">**GitHub**</a> que pretende disponibilizar contéudo sobre 
 assuntos e temas que estou atualmente me especializando: Desenvolvimento (DevOps), Open Source, Segurança da Informação e Hacking. Mais 
-informações [**sobre mim**](https://afontana.github.io/sobre)
+informações [**sobre mim**](https://afontana.github.io/sobre)  
 
 Pra você que é exigente quanto a qualidade, simplicidade e clareza nas informações que busca, talvez este site seja uma resposta a suas expectativas.
 Desafio você a acompanhar o desenvolvimento do site ao longo dos dias. **NÂO DEIXE DE CONFERIR**

@@ -4,7 +4,8 @@ title = "André Fontana"
 author = "André Fontana"
 theme = "blackburn"
 # Shown in the side menu
-copyright = "&copy; 2016. All rights reserved."
+# copyright = "&copy; 2016. All rights reserved."
+copyright = "2016. André Fontana."
 canonifyurls = true
 enableRobotsTXT = true
 paginate = 5
@@ -15,7 +16,7 @@ paginate = 5
 
 [params]
  # Shown in the home page
-    subtitle = "DevOps / Open Source / Segurança da Informação / Gestão"
+    subtitle = "DevOps / Open Source / Segurança da Informação"
     brand = "Fontana"
     googleAnalytics = "UA-80818285-1"
     disqus = "Your Disqus shortname"

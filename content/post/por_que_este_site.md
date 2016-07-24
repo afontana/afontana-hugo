@@ -8,8 +8,8 @@ topics = ["Técnico", "Conteúdo de Qualidade"]
 
 
 É um site pessoal hospedado no <a href="https://github.com/" target="_blank">**GitHub**</a> que pretende disponibilizar contéudo sobre 
-assuntos e temas que estou atualmente me especializando: Desenvolvimento (DevOps), Open Source, Segurança da Informação e Hacking. Mais 
-informações [**sobre mim**](https://afontana.github.io/sobre)  
+assuntos e temas que estou atualmente me especializando: Desenvolvimento (DevOps), Open Source, Segurança da Informação e Hacking.  
+Mais informações [**sobre mim**](https://afontana.github.io/sobre)  
 
 Pra você que é exigente quanto a qualidade, simplicidade e clareza nas informações que busca, talvez este site seja uma resposta a suas expectativas.
 Desafio você a acompanhar o desenvolvimento do site ao longo dos dias. **NÃO DEIXE DE CONFERIR**
@@ -20,6 +20,7 @@ Pretendo escrever artigos de qualidade e que agreguem valor aos leitores que aco
 
 1. Utilizar preferencialmente softwares **open source**
     * Editor vim (IDE) com distribuição e plugins <a href="http://vim.spf13.com/" target="_blank">**SPF13**</a>
+        * Leia o tutorial publicado neste site **[Potencializar o editor VIM com o SPF13](https://afontana.github.io/post/transformando_vim_IDE_com_SPF13/)**
     * <a href="https://gohugo.io" target="_blank">**HUGO**</a> para geração de sites estáticos e GitHub para hospedagem 
     * Git para controle e versionamento de arquivos e Github como repositório remoto
     * Arquivos utilizando sintaxe Markdown para geração dos posts 

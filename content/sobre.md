@@ -18,8 +18,8 @@ Atualmente estou me especializando e estudando muito a cultura Open Sorce e filo
 
 ### Gamer e Aficcionado por tecnologia e automação de processos de Desenvolvimento de Software - Devops
 
-Nas horas livres gosto muito de jogar games, principalemnte os jogos de estratégia.
-Gosto de trabalhar com maquinas virtuais linux e praticar automatização de tarefas com shellscripts e python do ponto de vista DevOps.
-Utilizo maquinas virtuais também para brincar de pentest com Linux Kali, Cyborg e Parrot.
+Nas horas livres gosto muito de jogar games, principalmente os jogos de estratégia.
+Gosto de trabalhar com máquinas virtuais linux e praticar automatização de tarefas com shellscripts e python do ponto de vista DevOps.
+Utilizo máquinas virtuais também para brincar de pentest com Linux Kali, Cyborg e Parrot.
 
 

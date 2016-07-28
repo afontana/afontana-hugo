@@ -51,18 +51,18 @@ paginate = 5
         identifier = "contato"
         url = "/contato/"
     [[menu.main]]
-        name = "Tags"
-        pre = "<i class='fa fa-tags fa-fw'></i>"
-        weight = 4
-        identifier = "tag"
-        url = "/tags/"
-    [[menu.main]]
         name = "Tópicos"
         pre = "<i class='fa fa-folder fa-fw'></i>"
-        weight = 5
+        weight = 4
         identifier = "topic"
         url = "/topics/"
-
+    [[menu.main]]
+        name = "Tags"
+        pre = "<i class='fa fa-tags fa-fw'></i>"
+        weight = 5
+        identifier = "tag"
+        url = "/tags/"
+    
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.

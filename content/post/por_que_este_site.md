@@ -2,8 +2,8 @@
 date = "2016-07-22T10:29:20-03:00"
 draft = false
 title = "O que é afontana.github.io ?"
-tags = ["Github", "Desenvolvimento de Software", "DevOps", "Open-Source", "Segurança da Informação", "Hacking"]
-topics = ["Técnico", "Conteúdo de Qualidade"]
+tags = ["Git","Github", "Desenvolvimento de Software", "Ferramentas de Produtividade", "Repósitorio de Código", "Gerador de Sites Estático HUGO"]
+topics = ["DevOps", "Open-Source", "Segurança da Informação", "Hacking"]
 +++
 
 

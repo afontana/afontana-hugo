@@ -1,10 +1,10 @@
 +++
 date = "2016-07-23T12:36:22-03:00"
+title = "Potencializar o editor VIM com o SPF13"
 description = "Como potencializar o VIM com o plugin SPF13"
 draft = false
 tags = ["vim", "IDE", "SPF13", "Tutorial", "Open Source", "Terminal Linux", "Hacker"]
-title = "Potencializar o editor VIM com o SPF13"
-topics = ["Linux", "Editor de Textos", "Tutorial"]
+topics = ["DevOps", "Open-Source", "Hacking"]
 +++
 
 ## VIM

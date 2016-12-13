@@ -4,7 +4,7 @@ title = "Potencializar o editor VIM com o SPF13"
 description = "Como potencializar o VIM com o plugin SPF13"
 draft = false
 tags = ["vim", "IDE", "SPF13", "Tutorial", "Open Source", "Terminal Linux", "Hacker"]
-topics = ["DevOps", "Open-Source", "Hacking"]
+topics = ["DevOps", "Open-Source", "Hacking", "Segurança"]
 +++
 
 ## VIM
